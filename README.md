@@ -15,5 +15,5 @@
 
  Cochez maintenant les endroits à partir desquels vous avez effectué les modifications :
 
- - [ ] La machine virtuelle
+ - [X] La machine virtuelle
  - [x] Votre ordinateur personnel
